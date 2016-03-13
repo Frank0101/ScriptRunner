@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<scripts>
+  <script key="test-script-1" name="Test Script 1" description="Description Test Script 1" path="C:\test-script-1.bat" arguments="arguments-1" delay="1" timeout="10"/>
+  <script key="test-script-2" name="Test Script 2" description="Description Test Script 2" path="C:\test-script-2.bat" arguments="arguments-2"/>
+  <script key="test-script-3" name="Test Script 3" description="Description Test Script 3" path="C:\test-script-3.bat" arguments="arguments-3" delay="3" timeout="20"/>
+</scripts>
